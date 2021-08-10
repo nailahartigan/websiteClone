@@ -91,8 +91,7 @@ body{
 input{
   width: 550px;
   margin-left: 75px;
-
-
+  border-radius: 60px;
 }
 
 .magnify{
